@@ -33,7 +33,7 @@
 ### 4. `TABLE ORDERS` Заказы:
 ```
    - id primary key (VARCHAR | INTEGER)
-   - client_id (ForeignK Key -> CLIENTS)
+   - client_id (Foreign Key -> CLIENTS)
 ```
 ---
 # 2. Написать следующие SQL запросы:
